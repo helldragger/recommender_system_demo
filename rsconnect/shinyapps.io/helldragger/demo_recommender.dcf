@@ -1,0 +1,12 @@
+name: demo_recommender
+title: demo_recommender
+username:
+account: helldragger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 899927
+bundleId: 2049290
+url: https://helldragger.shinyapps.io/demo_recommender/
+when: 1556620427.56967
+asMultiple: FALSE
+asStatic: FALSE
